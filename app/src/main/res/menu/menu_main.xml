@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.sort11.anselmojunior.sort11.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/megasena"
+        android:orderInCategory="100"
+        android:title="@string/megasena"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/lotofacil"
+        android:orderInCategory="100"
+        android:title="@string/lotofacil"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/quina"
+        android:orderInCategory="100"
+        android:title="@string/quina"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/lotomania"
+        android:orderInCategory="100"
+        android:title="@string/lotomania"
+        app:showAsAction="never" />
+</menu>

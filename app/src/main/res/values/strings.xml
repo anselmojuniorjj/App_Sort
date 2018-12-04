@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sorte</string>
+    <string name="action_settings">Início</string>
+    <string name="title_activity_megasena">MegasenaActivity</string>
+    <string name="megasena">Mega-sena</string>
+    <string name="lotofacil">Lotofácil</string>
+    <string name="quina">Quina</string>
+    <string name="lotomania">Lotomania</string>
+    <string name="title_activity_lotofacil">LotofacilActivity</string>
+    <string name="frase_topo">Seu número da Sorte!</string>
+    <string name="title_activity_quina">QuinaActivity</string>
+    <string name="title_activity_lotomania">LotomaniaActivity</string>
+</resources>
